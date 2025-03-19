@@ -50,6 +50,16 @@
   type: Centralized Exchange
   listed: true
 
+- name: "TradeOgre"
+  markets:
+    - market: QRL-USDT
+      link: https://tradeogre.com/exchange/QRL-USDT
+  link: https://tradeogre.com/exchange/QRL-USDT
+  logo: tradeogre.jpg
+  prohibited: [no regulation as far as their https://tradeogre.com/terms state as of today 03.19.2025 ]
+  type: Centralized Exchange
+  listed: true
+
 - name: "Dex-Trade"
   markets:
     - market: QRL-USDT
